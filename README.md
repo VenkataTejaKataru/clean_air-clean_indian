@@ -36,7 +36,6 @@ The system ensures **transparency, faster resolution**, and **data-driven govern
 - GitHub Pages (optional for deployment)
 - 
 ## 🗂 Project Structure
-Clean Air - Clean India Hackathon Project/
 │
 ├── index.html          # Main dashboard
 ├── air_quality.html    # AQI monitoring page
